@@ -1,4 +1,4 @@
-How to run:
+## How to run:
 1)	Download the files 
 2)	In the second line of .ipynb file, change the path of the u.data file to its current path in your system
 3)	Run the .ipynb file to get results
